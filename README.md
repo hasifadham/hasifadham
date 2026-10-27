@@ -43,23 +43,23 @@
 ### 📁 Projects
 
 #### 1. 🎓 [E-Learning Academic System (C++)](https://github.com/asyeppp7/E-learning-Application)
-* **Penerangan:** Sistem akademik berasaskan C++ yang membolehkan guru memasukkan markah dan kehadiran, lalu memproses data untuk menghasilkan slip peperiksaan serta analisis pelajar.
-* **Alat/Perisian:** Dev C++ (Compiler), Canva (Carta Alir).
-* **Pautan Projek:** [Repo GitHub](https://github.com/asyeppp7/E-learning-Application) | [Slaid Pembentangan](https://canva.link/pl4a00pa301pbtq)
+* **Description:** A C++ based academic system that enables teachers to input marks and attendance, then process the data to generate examination slips as well as student analysis.
+* **Tools/Software:** Dev C++ (Compiler), Canva (Flowchart).
+* **Project Link:** [Repo GitHub](https://github.com/asyeppp7/E-learning-Application) | [Slaid Pembentangan](https://canva.link/pl4a00pa301pbtq)
 
 #### 2. 🌱 Automatic Irrigation System (IoT & ESP32)
-* **Penerangan:** Sistem pintar menggunakan sensor air untuk mengesan paras air dan menghantar data ke papan ESP32 bagi mengawal output ke LCD skrin, buzzer, serta notifikasi telefon pintar.
-* **Alat/Perisian:** Arduino IDE, Tinkercad, Blynk IoT, Canva.
-* **Pautan Projek:** [Slaid Pembentangan Canva](https://canva.link/h387to1im0kkn7u)
+* **Description:** A smart system using a water sensor to detect water levels and send data to the ESP32 board to control output to the LCD screen, buzzer, and smartphone notifications.
+* **Tools/Software:** Arduino IDE, Tinkercad, Blynk IoT, Canva.
+* **Project Link:** [Slaid Pembentangan Canva](https://canva.link/h387to1im0kkn7u)
 
 #### 3. 📊 [Excel Weekly Planner Tutorial](https://youtu.be/pDmfqCPupGw)
-* **Penerangan:** Video tutorial langkah demi langkah membina perancangan jadual mingguan menggunakan pelbagai fungsi canggih di Google Sheets.
-* **Alat/Perisian:** Google Sheets, YouTube.
-* **Pautan:** [Tonton di YouTube](https://youtu.be/pDmfqCPupGw) | [Fail Google Sheets](https://docs.google.com/spreadsheets/d/1DxOOCUIOCBUkwFdiJcEJxT9NGKQWBBnO-Zv04tdILW4/edit?usp=sharing)
+* **Description:** A step-by-step video tutorial on building a weekly schedule planner using various advanced functions in Google Sheets.
+* **Tools/Software:** Google Sheets, YouTube.
+* **Project Link:** [Tonton di YouTube](https://youtu.be/pDmfqCPupGw) | [Fail Google Sheets](https://docs.google.com/spreadsheets/d/1DxOOCUIOCBUkwFdiJcEJxT9NGKQWBBnO-Zv04tdILW4/edit?usp=sharing)
 
 #### 4. 🚀 Transporting System Technology Research
-* **Penerangan:** Kajian analisis data berkenaan kadar kepercayaan pengguna dan isu pengawasan dalam aplikasi pengangkutan (*Ride-Hailing & Traffic Apps*).
-* **Alat/Perisian:** Microsoft Word & Microsoft Excel.
-* **Pautan Laporan:** [Microsoft Word Document](https://1drv.ms/w/c/2670a84ce7effb0d/IQCJsu9dwhEgS4DGKIUZECISAYzPXSQw9NtPblw1wgAeObA?e=CoJbsU) | [Data Excel](https://1drv.ms/x/c/2670a84ce7effb0d/IQDoHDvA97FxR4vy_6F8SF5JAYZLbw2SEGdC2cU1SolR1RM?e=TABv1P)
+* **Description:** A data analysis study regarding user trust rates and surveillance issues in transportation applications (Ride-Hailing & Traffic Apps).
+* **Tools/Software:** Microsoft Word & Microsoft Excel.
+* **Project Link:** [Microsoft Word Document](https://1drv.ms/w/c/2670a84ce7effb0d/IQCJsu9dwhEgS4DGKIUZECISAYzPXSQw9NtPblw1wgAeObA?e=CoJbsU) | [Data Excel](https://1drv.ms/x/c/2670a84ce7effb0d/IQDoHDvA97FxR4vy_6F8SF5JAYZLbw2SEGdC2cU1SolR1RM?e=TABv1P)
 
 ---
